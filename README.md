@@ -1,0 +1,1 @@
+Implemented a Deep Q-Network from scratch using Python and CuPy. Trained through over one million self-play games. The resulting agent consistently defeated random players and could reliably exploit tactical mistakes made by human opponents.
